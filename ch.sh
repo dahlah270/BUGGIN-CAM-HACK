@@ -3,13 +3,13 @@
 # CamHacker
 # Version    : 1.3
 # Description: CamHacker is a camera Phishing tool. Send a phishing link to victim, if he/she gives access to camera, his/her photo will be captured!
-# Author     : KasRoudra
-# Github     : https://github.com/KasRoudra
-# Email      : kasroudrakrd@gmail.com
+# Author     : PushyGamertag27
+# Github     : https://github.com/dahlah270
+# Discord    : PushyGamertag27#7165
 # Credits    : Noob-Hackers, TechChipNet, LinuxChoice
-# Date       : 5-09-2021
+# Date       : 6-26-2022
 # License    : MIT
-# Copyright  : KasRoudra (2021-2022)
+# Copyright  : Pushy (2021-2022)
 # Language   : Shell
 # Portable File
 # If you copy, consider giving credit! We keep our code open source to help others
@@ -17,7 +17,7 @@
 : '
 MIT License
 
-Copyright (c) 2022 KasRoudra
+Copyright (c) 2022 Pushy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -73,7 +73,7 @@ ${cyan}| |   / _' | '_ ' _ \| |_| |/ _' |/ __| |/ / _ \ '__|
 ${purple}| |__| (_| | | | | | |  _  | (_| | (__|   <  __/ |
 ${yellow} \____\__,_|_| |_| |_|_| |_|\__,_|\___|_|\_\___|_|
 ${red}                                            [v${version}]
-${blue}                                    [By KasRoudra]
+${blue}                                    [By Pushy]
 "
 
 # Package Installer
