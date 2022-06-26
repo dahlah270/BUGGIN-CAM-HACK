@@ -53,9 +53,7 @@ Options:
  - Choose where to save images(custom directory) 
  - Error Diagnoser
  - Argument support for templates, tunnelers and directory
- 
-### [+] Preview 
-![Hack anyone's camera and get images](files/ch.gif)
+ if)
 
 ### [+] Depenencies
  - `php`
